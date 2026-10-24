@@ -17,4 +17,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e
 
 ## 📊 Estatísticas
 
-![Stats]![Stats](https://github-readme-stats.vercel.app/api?username=Victor-Rodrigue-Costa&show_icons=true)
+![Stats]!(https://github-readme-stats.vercel.app/api?username=VictorRodriguesCosta-Costa&show_icons=true)
